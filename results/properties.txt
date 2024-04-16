@@ -1,0 +1,7 @@
+Generative Score: 0.421732394592093
+Autocorrelation of generated: -0.22403980523175926
+Autocorrelation of original: 0.9311158559371377
+Mean of generated: 0.11029287954816694
+Mean of original: -0.025859309344487255
+Variance of generated: 0.04210430646548699
+Variance of original: 0.17642330460668149
